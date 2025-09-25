@@ -125,7 +125,6 @@ img{
     padding: 0;
 }
 
-/* GRID CLASS */
 .grid {
     display: grid;
     grid-template-columns: 40% 40%;   
